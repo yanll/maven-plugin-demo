@@ -1,2 +1,2 @@
 # maven-plugin-demo
-Maven
+Maven插件示例
